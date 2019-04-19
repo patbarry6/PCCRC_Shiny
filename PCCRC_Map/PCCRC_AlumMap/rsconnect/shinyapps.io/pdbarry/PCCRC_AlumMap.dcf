@@ -1,0 +1,12 @@
+name: PCCRC_AlumMap
+title: PCCRC_AlumMap
+username:
+account: pdbarry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 206020
+bundleId: 1234150
+url: https://pdbarry.shinyapps.io/PCCRC_AlumMap/
+when: 1519252056.40783
+asMultiple: FALSE
+asStatic: FALSE
